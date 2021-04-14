@@ -5,8 +5,8 @@ from G_Python.g_python.hparsers import HEntityType
 from G_Python.g_python.hpacket import HPacket
 
 extension_info = {
-    "title": "Room scanner",
-    "description": "no se",
+    "title": "Agregador de amigos",
+    "description": "Roberto Carlos",
     "version": "1.0",
     "author": "Hellsin6 + Dieegox77"
 }
