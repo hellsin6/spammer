@@ -1,0 +1,3 @@
+[submodule "G_Python"]
+	path = G_Python
+	url = https://github.com/sirjonasxx/G-Python
